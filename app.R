@@ -9,7 +9,7 @@ library(tidyverse)
 library(shinythemes)
 library(plotly)
 
-setwd("~/Google Drive/Shared drives/Ehsan PhD work/Codes")
+#setwd("~/Google Drive/Shared drives/Ehsan PhD work/Codes")
 source("ICcell_func.R", local=TRUE)
 
 # Define UI for application that draws a histogram

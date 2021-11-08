@@ -1,4 +1,3 @@
 # ICcell
 
-This Shinyapp code is written according to the JKasza github profile.
-For more information please see https://github.com/jkasza/InfContentRedux
+This Shiny app code is written according to JKasza's codes is avaliable at https://github.com/jkasza/InfContentRedux.

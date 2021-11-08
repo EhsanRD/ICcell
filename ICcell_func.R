@@ -1,7 +1,4 @@
 #rm(list = ls())
-library(Matrix)
-library(reshape2)
-library(ggplot2)
 
 # Functions for generating design matrices
 SWdesmat <- function(T) {

@@ -10,7 +10,8 @@ library(shinythemes)
 library(plotly)
 
 #setwd("~/Google Drive/Shared drives/Ehsan PhD work/Scripts")
-source("ICcell_func.R", local=TRUE)
+#source("ICcell_func.R", local=TRUE)
+source("ICcell_func.R")
 
 # Define UI for application that draws a histogram
 ui <- fluidPage(

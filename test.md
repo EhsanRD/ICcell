@@ -6,7 +6,7 @@ runtime: shiny
   
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-knitr::opts_knit$set(root.dir = '~/Google Drive/Shared drives/Ehsan PhD work/Codes')
+knitr::opts_knit$set(root.dir = '~/../')
 ```
 
 ## Embedded Shiny Application
